@@ -5,3 +5,5 @@ function calcularteAge (age){
         console.log("you are not of legal age" + age);
     }
 }
+
+console.log(calcularteAge(18));
