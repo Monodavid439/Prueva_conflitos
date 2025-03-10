@@ -13,7 +13,3 @@ function name(params){
   console.log("Hello word");
 }
 
-function nomina(){
-    console.log("pppppppppp");
-    console.log("nomina ok ok");
-}
