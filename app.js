@@ -7,3 +7,9 @@ function calcularteAge (age){
 }
 
 console.log(calcularteAge(18));
+
+
+function name(params){
+  console.log("Hello word");
+}
+
