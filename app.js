@@ -5,3 +5,15 @@ function calcularteAge (age){
         console.log("you are not of legal age" + age);
     }
 }
+
+console.log(calcularteAge(18));
+
+
+function name(params){
+  console.log("Hello word");
+}
+
+function nomina(){
+    console.log("pppppppppp");
+    console.log("nomina ok ok");
+}
