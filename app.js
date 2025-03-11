@@ -13,3 +13,11 @@ function name(params){
   console.log("Hello word");
 }
 
+
+function name(params){
+    console.log("Hello word, nueva clase adso");
+    console.log("hello word adso123")
+  }
+  
+
+
